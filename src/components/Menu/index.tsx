@@ -10,16 +10,13 @@ export function Menu(props : MenuProps){
     return(
         <MenuContainer>
             <button>
-                {/* <SunIcon /> */}
-                a
+                acordes
             </button>
             <button>
-                {/* <ZoomIcon/> */}
-                a
+                zoom +
             </button>
             <button>
-                {/* <VoidHeartIcon /> */}
-                a
+                favs
             </button>
         </MenuContainer>
     )
